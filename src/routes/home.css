@@ -1,0 +1,20 @@
+.movie {
+    background-color: black;
+    color: white;
+   display: flex;
+   flex-wrap: wrap;
+   flex-basis: content;
+   justify-content: center;
+   
+}
+.summary {
+    width: 250px;
+    text-align: center;
+}
+.title {
+    width: 250px;
+    text-decoration-line: none;
+    text-align: center;
+    
+}
+
